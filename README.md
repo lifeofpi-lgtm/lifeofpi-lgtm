@@ -4,6 +4,7 @@
 
 ## Projects
 
+- [MDmaster](https://github.com/lifeofpi-lgtm/md-text-editor): a native macOS app for writing and creating Markdown files.
 - [MissionQuit](https://github.com/lifeofpi-lgtm/MissionQuit): quit apps directly from Mission Control on macOS with ⌘Q.
 
 ## Find me
